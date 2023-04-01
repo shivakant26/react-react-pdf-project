@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# whats needed
+1. npm i jspdf
+2. npm i jspdf-autotable
+3. install both laibrary to generate pdf
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
